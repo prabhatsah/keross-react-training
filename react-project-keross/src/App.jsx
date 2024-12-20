@@ -1,8 +1,8 @@
 import React from "react";
-import Exercise12 from "./Components/Exercise 12/Exercise12.jsx";
+import Exercise20 from "./Components/Exercise 20/Exercise20.jsx";
 
 function App() {
-  return <Exercise12 />;
+  return <Exercise20 />;
 }
 
 export default App;
