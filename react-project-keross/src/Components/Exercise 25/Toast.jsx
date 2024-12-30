@@ -8,3 +8,4 @@ export default function Toast({ message }) {
     document.querySelector("body")
   );
 }
+
